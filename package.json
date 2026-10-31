@@ -1,6 +1,7 @@
 {
-  "name": "ecommerce-inngest",
-  "version": "0.1.0",
+  "name": "eco-hive-platform",
+  "version": "1.0.0",
+  "description": "Full-stack Eco-friendly e-commerce and community waste reporting platform",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
@@ -16,7 +17,6 @@
     "json2csv": "^6.0.0-alpha.2",
     "mongodb": "^6.18.0",
     "mongoose": "^8.10.0",
-    "moongose": "^1.0.0",
     "next": "15.5.14",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
